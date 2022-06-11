@@ -1,2 +1,2 @@
 # Typescript-
-노마드 코더의 타입스크립트 강의 부분을 보고 기록하는 레포지토리 입니다.
+study typescript
